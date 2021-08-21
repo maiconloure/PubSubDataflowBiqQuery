@@ -6,7 +6,6 @@ from google.cloud import bigquery
 import base64
 from datetime import datetime
 
-
 project_id = "[PROJECT_ID]"
 subscription_id = "[SUBSCRIPTION_ID]"
 # Number of seconds the subscriber should listen for messages

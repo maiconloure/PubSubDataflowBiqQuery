@@ -6,7 +6,6 @@ import base64
 import time
 import json
 
-
 # --- Base variables and auth path
 CREDENTIALS_PATH = "credentials/[PROJECT_ID].json"
 PROJECT_ID = "[PROJECT_ID]"
